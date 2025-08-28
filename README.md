@@ -13,3 +13,13 @@ source
 <!-- profile counter -->
 
 ![](https://komarev.com/ghpvc/?username=fishymael&color=lightgray&label=Crow's+eye+view)
+
+<!-- link pin -->
+
+hyperlink source
+
+https://pin.it/2TpRrAnNG
+
+https://en.pronouns.page/@fishymael
+
+https://ishmael.atabook.org/
