@@ -1,7 +1,5 @@
 source
 
-> E5F1F7
-
 <!-- typing svg -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E5F1F7&width=435&lines=I+am+Yi+Sang.;My+name+is+all+I+have+to+say.)](https://git.io/typing-svg)
@@ -23,3 +21,8 @@ https://pin.it/2TpRrAnNG
 https://en.pronouns.page/@fishymael
 
 https://ideal.atabook.org/
+
+<!-- color code -->
+color code
+```
+E5F1F7
