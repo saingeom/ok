@@ -12,7 +12,7 @@ source
 
 ![](https://komarev.com/ghpvc/?username=fishymael&color=lightgray&label=Crow's+eye+view)
 
-<!-- link pin -->
+<!-- link -->
 
 hyperlink source
 
@@ -22,7 +22,30 @@ https://en.pronouns.page/@fishymael
 
 https://ideal.atabook.org/
 
+<div align="center">
+<a href="https://ideal.atabook.org">test</a>
+</div>
+
+```
+<div align="center">
+<a href="https://ideal.atabook.org">test</a>
+</div>
+```
+
 <!-- color code -->
 color code
 ```
 E5F1F7
+```
+
+<!-- text center test -->
+
+<div align="center">
+test
+</div>
+
+```
+<div align="center">
+This text will be centered
+</div>
+```
