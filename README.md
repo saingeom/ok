@@ -22,4 +22,4 @@ https://pin.it/2TpRrAnNG
 
 https://en.pronouns.page/@fishymael
 
-https://ishmael.atabook.org/
+https://ideal.atabook.org/
