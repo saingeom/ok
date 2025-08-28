@@ -26,6 +26,12 @@ https://ideal.atabook.org/
 <a href="https://ideal.atabook.org">test</a>
 </div>
 
+why is it
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6c2e02f2-a22d-4ff4-990c-f59b55fffec0" />
+</p>
+
 ```
 <div align="center">
 <a href="https://ideal.atabook.org">test</a>
