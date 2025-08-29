@@ -3,7 +3,7 @@
 ⠀
 <!-- profile counter -->
 
-![](https://komarev.com/ghpvc/?username=fishymael&color=lightgray&label=Crow's+eye+view)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://komarev.com/ghpvc/?username=fishymael&color=lightgray&label=Crow's+eye+view)
 
 <!-- ideal -->
 
@@ -25,7 +25,7 @@
 
 <!-- hi -->
 
-🪽 ⠀사인검 ⠀.⠀⠀[AtaBook](https://ideal.atabook.org) , [Pinterest](https://pin.it/2TpRrAnNG) , [Pronouns](https://en.pronouns.page/@fishymael)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🪽 ⠀사인검 ⠀.⠀⠀[AtaBook](https://ideal.atabook.org) , [Pinterest](https://pin.it/2TpRrAnNG) , [Pronouns](https://en.pronouns.page/@fishymael)
 
 ___
 <!-- spotify -->
