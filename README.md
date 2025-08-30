@@ -25,7 +25,7 @@
 
 <!-- hi -->
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🪽 ⠀사인검 ⠀.⠀⠀[AtaBook](https://ideal.atabook.org) , [Pinterest](https://pin.it/2TpRrAnNG) , [Pronouns](https://en.pronouns.page/@saingeom) , [DNI List](https://docs.google.com/document/d/1BzU7gEfqE0SK8MveBaEo3zGo9sljQkXyqFRg0eZpxGY/edit?hl=ID&tab=t.0) , [Kin List](https://docs.google.com/document/d/1Azci3ccjQ0AhLMrbTrfIrQaLonXlubbiYqa5euKyisM/edit?tab=t.0)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🪽 ⠀사인검 ⠀.⠀⠀[AtaBook](https://ideal.atabook.org) , [Pinterest](https://pin.it/2TpRrAnNG) , [Pronouns](https://en.pronouns.page/@saingeom) , [DNI List](https://docs.google.com/document/d/1BzU7gEfqE0SK8MveBaEo3zGo9sljQkXyqFRg0eZpxGY/edit?hl=ID&tab=t.0) , [Kin List](https://docs.google.com/document/d/1Azci3ccjQ0AhLMrbTrfIrQaLonXlubbiYqa5euKyisM/edit?tab=t.0)
 
 ___
 <!-- spotify -->
