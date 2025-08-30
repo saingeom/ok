@@ -25,12 +25,12 @@
 
 <!-- hi -->
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🪽 ⠀사인검 ⠀.⠀⠀[AtaBook](https://ideal.atabook.org) , [Pinterest](https://pin.it/2TpRrAnNG) , [Pronouns](https://en.pronouns.page/@fishymael)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🪽 ⠀사인검 ⠀.⠀⠀[AtaBook](https://ideal.atabook.org) , [Pinterest](https://pin.it/2TpRrAnNG) , [Pronouns](https://en.pronouns.page/@saingeom)
 
 ___
 <!-- spotify -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31iox7f7hxzjxbrrsahby5k5guu4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=e5f1f7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31iox7f7hxzjxbrrsahby5k5guu4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=d8e0e3&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)
 
 <!-- divider2 -->
 
